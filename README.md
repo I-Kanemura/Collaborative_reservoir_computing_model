@@ -1,0 +1,1 @@
+# Collaborative_reservoir_computing_model
