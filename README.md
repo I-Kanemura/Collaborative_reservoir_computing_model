@@ -7,6 +7,6 @@ They include
 - Plot.py : Module of plotting signals or results
 - MySignal.py : Module of creating simulation signal.
 - Evaluation.py : Module of evaluating method.
-- img : Image for simulation.
+- /img : Image for simulation.
 
 Running these codes will reproduce the main results in the publication :  
