@@ -1,4 +1,4 @@
-# Collaborative_reservoir_computing_model  
+# Collaborative reservoir computing model  
 There codes are written in python3, and dependent on os, datatime, numpy, matplotlib and PIL.  
 They include :
 
