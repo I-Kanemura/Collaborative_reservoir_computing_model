@@ -1,6 +1,7 @@
 # Collaborative_reservoir_computing_model  
 There codes are written in python3, and dependent on os, datatime, numpy, matplotlib and PIL.  
-They include  
+They include :
+
 - Run_Main.py : Training neural network for learning multiple chunk.
 - RC.py : Module of echo state network (reservoir computing).
 - Model.py : Module of collaborative reservoir computing mode.
