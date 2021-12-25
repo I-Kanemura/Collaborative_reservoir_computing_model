@@ -1,5 +1,5 @@
 # Collaborative reservoir computing model  
-There codes are written in python3, and dependent on os, datatime, numpy, matplotlib and PIL.  
+There codes are written in Python3, and dependent on os, datatime, numpy, matplotlib and PIL.  
 They include :
 
 - Run_Main.py : Training neural network for learning multiple chunks.
