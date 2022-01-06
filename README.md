@@ -10,5 +10,6 @@ They include :
 - Evaluation.py : Module of evaluating method.
 - /img : Images for simulation.
 
-Running these codes will reproduce the main results in the publication : 
+Running these codes will reproduce the main results in the publication :　
+
 Association between different sensory modalities based on concurrent time series data obtained by a collaborative reservoir computing model 
